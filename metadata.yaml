@@ -1,15 +1,21 @@
 _repo: The-First-Book-of-Eskimos_49991
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Koering, Ursula
     gutenberg_agent_id: '45647'
     url: http://www.gutenberg.org/2009/agents/45647
+covers:
+- cover_type: archival
+  image_path: 49991-h/images/cover.jpg
 creator:
   author:
     agent_name: Folsom, Franklin Brewster
     gutenberg_agent_id: '45646'
     url: http://www.gutenberg.org/2009/agents/45646
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49991#The-First-Book-of-Eskimos
 gutenberg_issued: '2015-09-17'
 gutenberg_type: Text
 identifiers:
